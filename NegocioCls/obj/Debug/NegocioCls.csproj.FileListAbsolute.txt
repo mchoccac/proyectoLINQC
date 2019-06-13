@@ -1,0 +1,7 @@
+C:\Users\Mynor Rene Choc Cac\source\repos\ProyectoLinq1\NegocioCls\bin\Debug\NegocioCls.dll.config
+C:\Users\Mynor Rene Choc Cac\source\repos\ProyectoLinq1\NegocioCls\bin\Debug\NegocioCls.dll
+C:\Users\Mynor Rene Choc Cac\source\repos\ProyectoLinq1\NegocioCls\bin\Debug\NegocioCls.pdb
+C:\Users\Mynor Rene Choc Cac\source\repos\ProyectoLinq1\NegocioCls\obj\Debug\NegocioCls.csprojAssemblyReference.cache
+C:\Users\Mynor Rene Choc Cac\source\repos\ProyectoLinq1\NegocioCls\obj\Debug\NegocioCls.csproj.CoreCompileInputs.cache
+C:\Users\Mynor Rene Choc Cac\source\repos\ProyectoLinq1\NegocioCls\obj\Debug\NegocioCls.dll
+C:\Users\Mynor Rene Choc Cac\source\repos\ProyectoLinq1\NegocioCls\obj\Debug\NegocioCls.pdb
